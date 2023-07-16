@@ -1,0 +1,10 @@
+.env
+# Mac OS
+.DS_Store
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
